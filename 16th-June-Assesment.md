@@ -26,13 +26,21 @@ Note: Placing article tag inside of section tag is good practice, like section b
  
  3.    write a doc for the following below
         typeof(1)            - number
+        
         typeof(1.1)          - number 
+        
         typeof('1.1')        - string
-        typeof(true)         - boolean  
+        
+        typeof(true)         - boolean 
+        
         typeof(null)         - object
+        
         typeof(undefined)    - undefined
+        
         typeof([])           - object
+        
         typeof({})           - object
+        
         typeof(NaN)          - number
  
  
