@@ -1,7 +1,9 @@
 to read - https://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags
 task:-
  1.  create a simple html file containing of elements that helps to build a rough portfolio
- 2. ** doc for the difference between <div>, <article>, <section> tag?**
+ 
+ 2. doc for the difference between <div>, <article>, <section> tag?
+ 
 Answer - Both the tags are semantics tag in HTML 5. Both the <article> and <section> tags are represented in a similar way but used for some meaning, that meaning is for the browsers and the developers. Both tags can replace each other as there will be no changes to the outputs, but it will be difficult to understand by the developers and the browsers to act on those content.
  
 <div> Tag : The div tag is known as Division tag. The div tag is used in HTML to make divisions of content in the web page like (text, images, header, footer, navigation bar, etc). Div tag has both open(<div>) and closing (</div>) tag and it is mandatory to close the tag. The Div is the most usable tag in web development because it helps us to separate out data in the web page and we can create a particular section for particular data or function in the web pages.
@@ -20,6 +22,8 @@ Article tags are perfect for Microdata information.
 Feature:
 A section can have nested sections
 Note: Placing <article> tag inside of <section> tag is good practice, like section basically defines the types and the articles will contain the specific contents in that type of section.
+
+ 
  3.    write a doc for the following below
         typeof(1)            - number
         typeof(1.1)          - number 
@@ -30,5 +34,8 @@ Note: Placing <article> tag inside of <section> tag is good practice, like secti
         typeof([])           - object
         typeof({})           - object
         typeof(NaN)          - number
+ 
+ 
  4.   read what is prototype
+ 
  Answer:- https://www.geeksforgeeks.org/prototype-in-javascript/
