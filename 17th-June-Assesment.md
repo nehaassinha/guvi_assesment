@@ -1,12 +1,12 @@
-June 17, 2021
-Task
-    1)
-    var obj = [
+	June 17, 2021
+	Task
+    	1)
+    	var obj = [
           { person: "Name 1", age: "2", company: "GUVI" },
           { person: "Name 2", age: "5", company: "GUVI geek" },
           { person: "Name 3", age: "8", company: "GUVI geek network" },
         ]
-    use the above JSON to iterate over all for loops (for, for in, for of, forEach)
+   	 use the above JSON to iterate over all for loops (for, for in, for of, forEach)
 	
 	Answer:-
 	a. for loop
