@@ -1,0 +1,53 @@
+var resume ={ name: "NEHA SINHA",  
+			   email:"nehaassinha@gmail.com", 
+			   mobile:"9611246412", 
+			   address:{{"Om Sai ram PG for Girl"}{"6th Cross, Bellandur"}{"Bangalore -560102, Karnataka"}},
+			   objective:"To work with an organization where I can continuously learn in pursuit of achieving functional excellence which will enable me to apply my thoughts and continuously learn, create, innovate and simultaneously contribute towards the growth of organization with the best of my capabilities.",
+			   profileSummary:
+					{
+						{"2.0+ Years of experience in the IT industry in Software Development using Java, J2EE, Spring MVC, Collection Framework, SAP Hybris Commerce with Cargill projects."}
+						{"Good Exposure to complete SDLC."}
+						{"Experience in Agile Scrum Methodology."}
+						{"Knowledge in Core Java, J2EE, Spring MVC, SAP Hybris Commerce."}
+						{Good knowledge in RDBMS concepts Oracle (PL/SQL).}
+					},
+			   softwareSkills:
+					{
+						{"Languages: C, C++, Core Java, J2EE, PL/SQL, Spring MVC, Hibernate, Collection Framework, Data Structure."}
+						{"Database: Oracle (PL/SQL)"}
+						{"Operating System: Windows"}
+					},
+				professionalExperience:"Working with Accenture (ACC), Bengaluru as a Software Developer from November 2017- till Now.",
+				educationalQualification:"M.C.A (Master of Computer Application)",
+				projectProfile:
+					{
+						{project: "Cargill”,
+						duration: "From Jan 2018 - Till Now",
+						domain: "SAP Hybris",
+						role: "Software Developer",
+						toolTechnologyUsed:"JAVA, Spring MVC, Oracle, SAP Hybris, Eclipse, WinSCP, Putty, Git, OS – Windows.",
+						projectDescription:"Cargill project is a B2B commerce site. Where we can place a salt Order. There are two different types of user Salt and CDT user. It uses Hybris Commerce to Store the data and fetch the data and do configuration changes for Product, Material, Customer etc. Here we have different type of order features like Multiple Order, Replenishment Order and Normal Order. We use SAP Hybris Backoffice, HMC and HAC to maintain and store the customer and product records. Flexible Query is used to fetch the data from rows and columns.",
+						roleAndResponsibilities:
+							{role:"Developer"}
+							{"Created models like review, search my order page, its Controller and Service (using Spring MVC) that fetches the data present in its database. Created impex to search some features like lead at plant code is matching plant code etc."}
+						
+					},
+				personalAttributes:
+					{
+						{"Can communicate clearly and effectively"}
+						{"Can work efficiently with a team"}
+						{"Self-motivated and proactive in taking initiatives"}
+						{"Honest to self and Hard Working by maintaining average level of stress to insure the high performance"}
+					},
+				personalInformation:
+					{
+						sex : "female",
+						age:25,
+						nationality:"Indian",
+						hobbies:"Music,Cooking,Drawing",
+						languagesKnown :"English, Hindi"
+					},
+				declaration:"I hereby declare that the information given above by me is correct to the best of my knowledge.",
+				place:"Banglore"
+						
+			};
