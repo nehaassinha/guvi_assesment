@@ -280,6 +280,6 @@
 					let str=i.toString().split("").reverse().join("");
 					if(i===+str){ s[c++]=i;}
 				});
-			return s;
+			return s; 
 		};
 		console.log(pal_arr(arr));
