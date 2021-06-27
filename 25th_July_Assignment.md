@@ -45,7 +45,19 @@
         
         4) Print the total population of countries using reduce function 
         Solution-
-        
+        var xhr = new XMLHttpRequest();
+    xhr.open("GET", "https://restcountries.eu/rest/v2/all");
+    xhr.onload = function () {
+      var data = JSON.parse(this.response);
+	  
+	  let sum=data.map(function(a){
+		  return a.population;
+	  }).reduce(function(x,y)
+	  {return x+y
+	  },0);
+	  console.log(sum);
+	}
+    xhr.send();
         
         5) Print the country which use US Dollars as currency.
          Solution:-
