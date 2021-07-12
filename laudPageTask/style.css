@@ -1,0 +1,119 @@
+.header {
+    background-color: #1B1C1D;
+    color: azure;
+    text-align: center;
+  }
+  
+  .name {
+    padding-top: 11em;
+    padding-bottom: 11em;
+  }
+  
+  .fullname {
+    padding-bottom: .25em;
+  }
+  
+  .firstrow {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding-top: 5em;
+  }
+  
+  .left-bio {
+    flex: 50%;
+    overflow: hidden !important;
+    display: inline-block !important;
+  }
+  
+  .right-bio {
+    flex: 50%;
+    vertical-align: center;
+    text-align: center;
+  }
+  
+  .nazrul-image {
+    width: 300px;
+    height: 430px;
+    border-radius: 7%; 
+    border: 2px grey solid;
+  }
+  
+  .buttons-group {
+    text-align: center;
+  }
+  
+  .button-1 {
+    background-color: #E0E1E2 !important;
+    width: 7.5em;
+  }
+  
+  .button-2 {
+    background-color: #DB2828 !important;
+    color: white;
+    width: 6em;
+  }
+  
+  .button-3 {
+    background-color: #F2711C !important;
+    color: white;
+    width: 6em;
+  }
+  
+  .firstrow {
+    padding-bottom: 2em !important;
+  }
+  
+  .wikipedia {
+    padding-left: 2em !important;
+  }
+  
+  .quote {
+    background-color: #1B1C1D;
+    color: azure;
+    text-align: center;
+    padding: 3em;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    width: 100%;
+  }
+  
+  .box-shelf {
+    display: inline-flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100%;
+  }
+  
+  .boxes {
+    border: 2px solid rgb(189, 188, 188);
+    border-radius: 4px;
+    width: 220px;
+    height: 135px;
+    padding: 7px;
+    margin: 4px;
+  }
+  
+  .poetry-section {
+    padding-top: 5em !important;
+    display: block !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  
+  .poetry {
+    flex-shrink: 40% !important;
+  }
+  .footer {
+    background-color: #1B1C1D;
+    color: azure;
+    text-align: left;
+    padding: 3em;
+    margin-top: 3em;
+    width: 100%;
+  }
+  
+  .last {
+    border-right:1px solid lightslategrey ;
+  }
+  
